@@ -1,0 +1,3 @@
+1. 202208_Daylight_data_export.xlxs is the raw illuminance measurement data from the preinstalled sensors in the BCA Living Lab. illu_dense_rslt.csv is a subset of this data corresponding to the test period, copied directly from 202208_Daylight_data_export.xlxs just for the ease of processing.
+2. office_grid.pts is the coordinates of the preinstalled sensors.
+3. v_office.mtx is the View matrix corresponding to the coordinates of the preinstalled sensors, generated from simulation. 

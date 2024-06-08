@@ -1,0 +1,1 @@
+These are the raw measurement data from the Parallel Luminance Sensor.
