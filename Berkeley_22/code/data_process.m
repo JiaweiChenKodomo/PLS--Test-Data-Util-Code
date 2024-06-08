@@ -1,3 +1,4 @@
+
 %% Load view matrix
 
 vmtx2 = importdata("v_office2.mtx") ;

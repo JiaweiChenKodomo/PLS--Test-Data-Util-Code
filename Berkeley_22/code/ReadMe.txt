@@ -1,0 +1,1 @@
+Place all files under the /data directory and run data_process.m to process all the data.
